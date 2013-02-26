@@ -5,14 +5,17 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
+
+    <link rel="Stylesheet" type="text/css" href="./stylesheet.css" />
+
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
+    <div><h1>
     
         Net Pay Calculator
     
-    </div>
+   </h1> </div>
     <p>
         Hourly Wage:</p>
     <p>
